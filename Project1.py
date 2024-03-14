@@ -63,9 +63,9 @@ if (selected == 'HOME'):
     st.write("In addition to disease predictions, our app features an AI-powered chatbot equipped with state-of-the-art language models. Chat with our virtual doctor and get expert advice on various health-related queries.")
     st.write("With our web application, you can take charge of your well-being, make informed decisions, and seek timely medical intervention when necessary. Experience the future of healthcare with our comprehensive disease prediction app and embark on a journey towards a healthier life.")
     st.write("Connect Me at:")
-    st.write("Github Link : https://github.com/Phantom-Harsh/Multiple-disease-Predictor")
-    st.write("LinkedIn Link : https://www.linkedin.com/in/harsh-tirhekar")
-    st.write("Email : iib2021016@iiita.ac.in")    
+    st.write("Github Link : https://github.com/vinaykumar11111/multiple-disease-prediction")
+    st.write("LinkedIn Link : www.linkedin.com/in/vinayreddyseelam")
+    st.write("Email : ---")    
 
 # Liver Disease Prediction Page used # https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset
 if (selected == 'Liver Disease Prediction'):
